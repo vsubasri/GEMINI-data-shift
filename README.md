@@ -12,3 +12,5 @@ This repository contains the code used for the experiments performed in:
   publisher={Cold Spring Harbor Laboratory Press}
 }
 ```
+
+Access to GEMINI data for research purposes can be requested by a submission of a Project Proposal Form for review by the GEMINI Projects and Publications Committee. Further information can be found at https://www.geminimedicine.ca/access-data. 
