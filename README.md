@@ -1,15 +1,17 @@
-## Diagnosing and remediating harmful data shifts for the responsible deployment of clinical AI models 
+## Detecting and Remediating Harmful Data Shifts for the Responsible Deployment of Clinical AI Models 
 
-This repository contains the code used for the experiments performed in:
+This repository contains code used for the experiments performed in:
 
 ```
-@article{subasri2023diagnosing,
-  title={Diagnosing and remediating harmful data shifts for the responsible deployment of clinical AI models},
-  author={Subasri, Vallijah and Krishnan, Amrit and Dhalla, Azra and Pandya, Deval and Malkin, David and Razak, Fahad and Verma, Amol and Goldenberg, Anna and Dolatabadi, Elham},
-  journal={medRxiv},
-  pages={2023--03},
-  year={2023},
-  publisher={Cold Spring Harbor Laboratory Press}
+@article{subasri2025detecting,
+  title={Detecting and Remediating Harmful Data Shifts for the Responsible Deployment of Clinical AI Models},
+  author={Subasri, Vallijah and Krishnan, Amrit and Kore, Ali and Dhalla, Azra and Pandya, Deval and Wang, Bo and Malkin, David and Razak, Fahad and Verma, Amol A and Goldenberg, Anna and others},
+  journal={JAMA Network Open},
+  volume={8},
+  number={6},
+  pages={e2513685--e2513685},
+  year={2025},
+  publisher={American Medical Association}
 }
 ```
 
